@@ -18,14 +18,16 @@ cargo run
 
 * [chapter 1](https://github.com/escrichov/rustbook/releases/tag/chapter1)
 ```
+cd hello_world
+rustc main.rs
+./main
+```
+```
 cd hello_cargo
 cargo run
 ```
 
-```
-cd hello_world
-cargo run
-```
+
 
 * [chapter 2](https://github.com/escrichov/rustbook/releases/tag/chapter2)
 ```
